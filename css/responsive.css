@@ -1,5 +1,11 @@
+/* @media all and (max-width:1094px) {
+    .banner {
+        background-size: contain;
+        height: auto;
+    }
+} */
 
-@media (max-width:1000px) {
+@media all and (max-width:1000px) {
     .fixtWidth {
         width: 100%;
         max-width: 100%;
@@ -7,10 +13,14 @@
         padding-left: 20px;
         padding-right: 20px;
         box-sizing: border-box;
+        
     }
-    .herder {
+    /* .herder {
         background: #9b59b6;
         padding: 10px 0;
+    } */
+    .headerRight ul li a{
+        border-right: none;
     }
 }
 
@@ -29,6 +39,9 @@
 }
 
 @media (max-width: 629px) {
+    /* .herder {
+        padding: 15px 0;
+    } */
     .headerRight ul li a {
         padding: 0px 17px;
         border-right: none;
@@ -56,6 +69,12 @@
     }
 }
 
+@media (max-width: 620px) {
+    .herder {
+       
+        height: 100%;
+    }
+ }
 @media (max-width: 476px) {
     .banner {
         padding: 88px 0;
