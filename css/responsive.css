@@ -54,6 +54,12 @@
     .blogItem {
         text-align: justify;
     }
+    .footerLeft {
+        width: 50%;
+    }
+    .footerRight {
+        width: 50%;
+    }
 }
 
 /* Responsive */
