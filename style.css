@@ -153,9 +153,10 @@ img {
     width: 25%;
 }
 .blogNotice h2 {
-    font-size: 30px;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 10px;
+	font-size: 30px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
 }
 .blogNotice ul {
     list-style: none;
