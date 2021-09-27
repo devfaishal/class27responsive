@@ -149,7 +149,6 @@
     }
  }
 
-
  /* Responsive */
 @media (max-width: 476px) {
     .banner {
@@ -165,3 +164,8 @@
     }
 }
 
+@media (max-width: 344px) {
+    .footerLeft p{
+        font-size: 15px;
+    }
+}
