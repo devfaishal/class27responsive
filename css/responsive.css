@@ -75,6 +75,17 @@
         border-radius: 5px;
         margin-bottom: 7px;
     }
+    .footerLeft {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 12px;
+    }
+    .footerRight {
+        width: 100%;
+    }
+    .textRight {
+        text-align: center;
+    }
 }
 
 /* Responsive */
